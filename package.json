@@ -1,0 +1,25 @@
+{
+  "name": "github-node",
+  "version": "1.0.0",
+  "description": "I am learning git",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pranay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "superheroes": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranay041/sercrate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pranay041/sercrate/issues"
+  },
+  "homepage": "https://github.com/pranay041/sercrate#readme"
+}
